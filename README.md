@@ -11,6 +11,8 @@ It uses Selenium and Chrome to open up a web browser and automatically login for
   - Python: https://www.python.org/
   - Chrome: https://www.google.com/chrome/
   - Chromedriver: https://chromedriver.chromium.org/downloads
+2. Change the hardcoded username and password in the file.
+3. Release the Python!
 
 For normal teams users, use "teams.py". 
-For organization users, use "org.py"
+For organization users, use "org.py".
