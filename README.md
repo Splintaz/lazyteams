@@ -1,6 +1,5 @@
 # Lazy Teams
 Automatically join a Teams-meeting with a muted microphone and camera. Supports organization login. 
-<img src="https://raw.githubusercontent.com/Splintaz/lazyteams/main/images/Untitled.png">
 
 # What is Lazy Teams?
 It uses Selenium and Chrome to open up a web browser and automatically login for you where it will then wait for a call prompt. Upon the call prompt being shown, it will be accepted and the saved profile will avoid any browser notifications from showing up by blocking the microphone and camera. 
